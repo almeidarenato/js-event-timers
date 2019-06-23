@@ -1,5 +1,7 @@
 # Exercicios Javascript - Eventos e Timers
 
+Link: https://almeidarenato.github.io/js-event-timers/
+
 ## Eventos
 
 1. Criar uma página HTML vazia com a estrutura básica (html, head e body)
