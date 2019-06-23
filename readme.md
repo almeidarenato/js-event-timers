@@ -1,6 +1,6 @@
-#Exercicios Javascript - Eventos e Timers
+# Exercicios Javascript - Eventos e Timers
 
-##Eventos
+## Eventos
 
 1. Criar uma página HTML vazia com a estrutura básica (html, head e body)
 2. Adicionar um botão ao html com a legenda “Cumprimentar” que, ao ser
@@ -24,7 +24,7 @@
    um alert dizendo “Não é possível enviar”. 9. Fazer com que o `addEventListener` criado na imagem imprima em linha de
    comando a localização do mouse em x e y.
 
-##Timers
+## Timers
 
 1. Em uma página HTML básica (podemos usar a mesma de Eventos), fazer
    com que, se o usuário passar 10 segundos nessa página, seja exibido um
@@ -32,5 +32,6 @@
 2. A cada 5 segundos que ele passe na página, fazer com que seja exibido
    um alert que diga “hora do intervalo”.
 
-##Créditos
+## Créditos
+
 Digital House pelos exercícios
